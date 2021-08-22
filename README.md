@@ -1,4 +1,4 @@
-## Olá 👋  
+## Olá 👋🏾  
 
 👨🏾‍💻 Sou desenvolvedor júnior, atualmente cursando Analise e Desenvolvimento de Sistemas no IFSP.
 
